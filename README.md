@@ -26,7 +26,7 @@ python train_munit.py --output_path /munit_result_path --input_path1 /munit_resu
 
 ### Train a classifier:
 
-Copy the last checkpoint file in /munit_result_path/outputs/tiny_munit/checkpoints/ to ./domainbed/munit/saved_models/FairFace/0 as 0_cotrain_step1.pt
+Copy the last checkpoint file in /munit_result_path/outputs/tiny_munit/checkpoints/ to fddg/domainbed/munit/saved_models/FairFace/0 as 0_cotrain_step1.pt
 
 In folder fddg/
 
